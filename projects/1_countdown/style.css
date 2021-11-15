@@ -48,3 +48,10 @@ body {
 .displayed {
   opacity: 1;
 }
+
+.christmas {
+  display: flex;
+  gap: 5rem;
+  transition: opacity 0.5s ease-in-out;
+  font-size: 5em;
+}
